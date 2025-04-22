@@ -1,0 +1,28 @@
+{
+  "name": "acme_icecream",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/selmo97/acme_icecream.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/selmo97/acme_icecream/issues"
+  },
+  "homepage": "https://github.com/selmo97/acme_icecream#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "morgan": "^1.10.0",
+    "pg": "^8.15.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
